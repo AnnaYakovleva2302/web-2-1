@@ -41,6 +41,6 @@ out/
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
-!artifacts/app-mbank.jar
+!artifacts/app-order.jar
 !**/src/main/**
 !**/src/test/**
